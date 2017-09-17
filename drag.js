@@ -1,5 +1,5 @@
 // JavaScript Document
-
+var a=1;
 function drag(id){
 	var obj = document.getElementById(id);
 	var disX = 0;
