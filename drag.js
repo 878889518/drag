@@ -14,7 +14,7 @@ function drag(id){
 		document.onmouseup = function(){
 			document.onmousemove = null;
 			document.onmouseup = null;
-		};
+		};  
 	}
 	return false;
 }
