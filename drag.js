@@ -17,5 +17,4 @@ function drag(id){
 		};  
 	}
 	return false;
-	return 2222;
 }
