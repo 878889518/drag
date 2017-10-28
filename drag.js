@@ -16,5 +16,5 @@ function drag(id){
 			document.onmouseup = null;
 		};  
 	}
-	return false;
+	
 }
